@@ -67,13 +67,6 @@ vm.swappiness = 10
 
 Apply with `sysctl -p`
 
-**/etc/security/limits.conf**
-
-```
-*       soft    nofile  100000
-*       hard    nofile  100000
-```
-
 **Bash commands**
 
 `ulimit -Hn 1048576 && ulimit -Sn 65535`
