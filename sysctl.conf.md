@@ -1,3 +1,6 @@
+**/etc/sysctl.conf**
+
+```
 fs.file-max = 2097152
 fs.protected_hardlinks = 0
 fs.protected_symlinks = 0
@@ -8,7 +11,7 @@ net.core.optmem_max = 65535
 net.core.rmem_default = 31457280
 net.core.rmem_max = 12582912
 net.core.rmem_max = 16777216
-net.core.somaxconn = 32768
+net.core.somaxconn = 65535
 net.core.wmem_default = 31457280
 net.core.wmem_max = 12582912
 net.core.wmem_max = 16777216
@@ -27,7 +30,6 @@ net.ipv4.neigh.default.proxy_qlen = 96
 net.ipv4.neigh.default.unres_qlen = 6
 net.ipv4.route.flush = 1
 net.ipv4.tcp_ecn = 1
-net.ipv4.tcp_fastopen = 3
 net.ipv4.tcp_fin_timeout = 15
 net.ipv4.tcp_keepalive_intvl = 15
 net.ipv4.tcp_keepalive_probes = 5
@@ -61,3 +63,17 @@ net.unix.max_dgram_qlen = 50
 vm.dirty_background_ratio = 2
 vm.dirty_ratio = 60
 vm.swappiness = 10
+```
+
+Apply with `sysctl -p`
+
+**/etc/security/limits.conf**
+
+```
+*       soft    nofile  100000
+*       hard    nofile  100000
+```
+
+**Bash commands**
+
+`ulimit -Hn 1048576 && ulimit -Sn 65535`
