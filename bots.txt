@@ -1,0 +1,306 @@
+360Spider
+80legs.com
+Abonti
+AcoonBot
+Acunetix
+adbeat_bot
+AddThis.com
+adidxbot
+ADmantX
+AhrefsBot
+AngloINFO
+Antelope
+Applebot
+BaiduSpider
+BeetleBot
+billigerbot
+binlar
+bitlybot
+BlackWidow
+BLP_bbot
+BoardReader
+Bolt\ 0
+BOT\ for\ JCE
+Bot\ mailto\:craftbot@yahoo\.com
+casper
+CazoodleBot
+CCBot
+checkprivacy
+ChinaClaw
+chromeframe
+Clerkbot
+Cliqzbot
+clshttp
+CommonCrawler
+comodo
+CPython
+crawler4j
+Crawlera
+CRAZYWEBCRAWLER
+Curious
+Custo
+Default\ Browser\ 0
+diavol
+DigExt
+Digincore
+DIIbot
+DISCo
+discobot
+DoCoMo
+DotBot
+Download\ Demon
+DTS.Agent
+EasouSpider
+eCatch
+ecxi
+EirGrabber
+Elmer
+EmailCollector
+EmailSiphon
+EmailWolf
+Exabot
+ExaleadCloudView
+ExpertSearch
+ExpertSearchSpider
+Express\ WebPictures
+extract
+ExtractorPro
+EyeNetIE
+Ezooms
+F2S
+FastSeek
+feedfinder
+FeedlyBot
+FHscan
+finbot
+Flamingo_SearchEngine
+FlappyBot
+FlashGet
+flicky
+Flipboard
+g00g1e
+genieo
+Genieo
+GetRight
+GetWeb\!
+GigablastOpenSource
+Go\-Ahead\-Got\-It
+Go\!Zilla
+GozaikBot
+grab
+GrabNet
+Grafula
+GrapeshotCrawler
+GT\:\:WWW
+GTB5
+Guzzle
+harvest
+heritrix
+HMView
+HomePageBot
+HTTP\:\:Lite
+HTTrack
+HubSpot
+ia_archiver
+icarus6
+id\-search
+IDBot
+IlseBot
+Image\ Stripper
+Image\ Sucker
+Indigonet
+Indy\ Library
+integromedb
+InterGET
+Internet\ Ninja
+InternetSeer\.com
+IRLbot
+ISC\ Systems\ iRc\ Search\ 2\.1
+jakarta
+Java
+JetCar
+JobdiggerSpider
+JOC\ Web\ Spider
+Jooblebot
+Jorgee
+kanagawa
+KINGSpider
+kmccrew
+larbin
+LeechFTP
+libwww
+Lingewoud
+LinkChecker
+linkdexbot
+LinksCrawler
+LinksManager\.com_bot
+linkwalker
+LinqiaRSSBot
+LivelapBot
+ltx71
+LubbersBot
+lwp\-trivial
+Mail.RU_Bot
+Mass\ Downloader
+masscan
+maverick
+Maxthon$
+Mediatoolkitbot
+megaindex
+MegaIndex
+MegaIndex
+MFC_Tear_Sample
+Microsoft\ URL\ Control
+microsoft\.url
+MIDown\ tool
+miner
+Missigua\ Locator
+Mister\ PiX
+mj12bot
+Mozilla.*Indy
+Mozilla.*NEWT
+MSFrontPage
+msnbot
+Navroad
+NearSite
+Net\ Vampire
+NetAnts
+netEstate
+NetSpider
+NetZIP
+NextGenSearchBot
+nutch
+Octopus
+Offline\ Explorer
+Offline\ Navigator
+OpenindexSpider
+OpenWebSpider
+OrangeBot
+Owlin
+PageGrabber
+PagesInventory
+panopta
+panscient\.com
+Papa\ Foto
+pavuk
+pcBrowser
+PECL\:\:HTTP
+PeoplePal
+Photon
+PHPCrawl
+planetwork
+PleaseCrawl
+PNAMAIN.EXE
+PodcastPartyBot
+prijsbest
+proximic
+psbot
+purebot
+pycurl
+QuerySeekerSpider
+R6_CommentReader
+R6_FeedFetcher
+RealDownload
+ReGet
+Riddler
+Rippers\ 0
+rogerbot
+RSSingBot
+rv\:1.9.1
+RyzeCrawler
+SafeSearch
+SBIder
+Scrapy
+Scrapy
+Screaming
+search_robot
+search.goo.ne.jp
+SearchmetricsBot
+Semrush
+SemrushBot
+SentiBot
+SEOkicks
+SeznamBot
+ShowyouBot
+SightupBot
+SISTRIX
+sitecheck\.internetseer\.com
+siteexplorer.info
+SiteSnagger
+skygrid
+Slackbot
+Slurp
+SmartDownload
+Snoopy
+Sogou
+Sosospider
+spaumbot
+Steeler
+sucker
+SuperBot
+Superfeedr
+SuperHTTP
+SurdotlyBot
+Surfbot
+tAkeOut
+Teleport\ Pro
+TinEye
+TinEye-bot
+Toata\ dragostea\ mea\ pentru\ diavola
+Toplistbot
+trendictionbot
+turnit
+TurnitinBot
+Twenga
+TwengaBot
+Twitterbot
+URI\:\:Fetch
+urllib
+Vagabondo
+Vagabondo
+vikspider
+VoidEYE
+VoilaBot
+WBSearchBot
+Web\ Image\ Collector
+Web\ Sucker
+webalta
+WebAuto
+WebBandit
+WebCollage
+WebCopier
+WebFetch
+WebGo\ IS
+WebLeacher
+WebReaper
+WebSauger
+Website\ eXtractor
+Website\ Quester
+WebStripper
+WebWhacker
+WebZIP
+Wells\ Search\ II
+WEP\ Search
+WeSEE
+Wget
+Widow
+WinInet
+woobot
+woopingbot
+worldwebheritage.org
+Wotbox
+WPScan
+WWW\-Mechanize
+WWWOFFLE
+Xaldon\ WebSpider
+XoviBot
+yacybot
+Yandex
+YandexBot
+YisouSpider
+zermelo
+Zeus
+zh-CN
+ZmEu
+ZumBot
+ZyBorg
