@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # install docker and docker-compose on Ubuntu 22
+# curl -s https://github.com/fabriziosalmi/linux/blob/master/docker-ubuntu22.sh | bash -s
 
 sudo apt install -y apt-transport-https ca-certificates curl software-properties-common
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
