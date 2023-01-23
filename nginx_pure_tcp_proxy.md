@@ -12,13 +12,13 @@ stream {
 
     server {
             listen 443;
-            proxy_pass dns_servers_tcp_443;
+            proxy_pass backend_tcp_443;
             proxy_timeout 5s;
             proxy_connect_timeout 2s;
             ssl_protocols TLSv1.2 TLSv1.3;
         }
 
-       upstream dns_servers_tcp_443 {
+       upstream backend_tcp_443 {
         least_conn;
         server 10.100.100.100:443;
     }
