@@ -13,5 +13,5 @@ wget https://github.com/wazuh/wazuh/archive/refs/heads/AlpineCompileForCommunity
 unzip AlpineCompileForCommunity-4.3.10.zip
 cd wazuh-AlpineCompileForCommunity-4.3.10/src && make deps TARGET=agent EXTERNAL_SRC_ONLY=1
 addgroup -S wazuh && adduser -S wazuh
-cd wazuh-AlpineCompileForCommunity-4.3.10/src && make TARGET=agent
-cd wazuh-AlpineCompileForCommunity-4.3.10/ ./install.sh
+make TARGET=agent
+./install.sh
