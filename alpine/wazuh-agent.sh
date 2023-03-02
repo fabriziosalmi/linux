@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# required: bash curl grep
 # curl -s https://raw.githubusercontent.com/fabriziosalmi/linux/master/alpine/wazuh-agent.sh | bash -s
 
 apk update && apk add make gcc automake autoconf libtool curl openssl openssl-dev libgcc cmake gnupg perl fakeroot brotli automake autoconf libtool gawk libsigsegv nodejs build-base python3 libc-dev gettext-dev zip procps --update alpine-sdk
