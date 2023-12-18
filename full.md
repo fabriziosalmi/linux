@@ -238,3 +238,35 @@
      - Implementing robust backup and recovery strategies to safeguard data against loss or corruption.
    - **Performance Tuning and Scalability**
      - Regularly tuning database performance and scaling database resources to match application demands and user growth.
+
+### 43. Domain Management
+   - **Domain Registration and Administration**
+     - Overseeing the registration, renewal, and management of domain names.
+     - Implementing best practices for domain name selection, privacy protection, and administrative contact management.
+   - **Domain Strategy and Governance**
+     - Developing a comprehensive strategy for domain name acquisition and usage in line with brand identity and organizational goals.
+     - Establishing governance policies for domain name usage, including guidelines for subdomain creation and management.
+
+### 44. DNS Management
+   - **DNS Configuration and Maintenance**
+     - Configuring and maintaining DNS records to ensure accurate and efficient domain name resolution.
+     - Implementing robust DNS strategies, including primary and secondary DNS configurations for redundancy.
+   - **DNS Security and Performance**
+     - Utilizing DNS security measures such as DNSSEC to protect against DNS spoofing and other attacks.
+     - Optimizing DNS performance through techniques like caching, load balancing, and geo-DNS settings.
+
+### 45. Certificate Management
+   - **SSL/TLS Certificate Deployment**
+     - Managing the lifecycle of SSL/TLS certificates, including issuance, renewal, and revocation.
+     - Ensuring proper configuration of certificates on servers to enable secure HTTPS connections.
+   - **Certificate Authority (CA) Interactions**
+     - Working with Certificate Authorities for certificate issuance and managing trusted CA repositories.
+     - Implementing automated certificate renewal processes using protocols like ACME with Let's Encrypt.
+
+### 46. Cloudflare Integration
+   - **CDN and Website Optimization**
+     - Utilizing Cloudflare's Content Delivery Network (CDN) to enhance website performance and load times.
+     - Implementing Cloudflare's performance optimization features such as minification, compression, and intelligent caching.
+   - **Security and DDoS Protection**
+     - Leveraging Cloudflare's security offerings to protect websites against DDoS attacks, web vulnerabilities, and malicious bot traffic.
+     - Configuring Cloudflare’s Web Application Firewall (WAF) and custom security rules to safeguard web applications.
