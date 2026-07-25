@@ -35,7 +35,8 @@ def find_flattened_cnames(api_token, domain):
     try:
         response = requests.get(f'https://api.cloudflare.com/client/v4/zones/{domain["id"]}/dns_records?type=CNAME', headers=headers)
         response.raise_for_status()
-        for record in response.json()['result']:
+        data = response.json()
+        for record in data.get('result', []):
             if record['name'] == domain['name']:  # Checking if it's an Apex record
                 cnames.append(record)
     except requests.exceptions.RequestException as e:
